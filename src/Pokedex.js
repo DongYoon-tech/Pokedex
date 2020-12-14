@@ -25,7 +25,7 @@ const Pokedex = () => {
                     id={p.id}
                     name={p.name}
                     type={p.type}
-                    exp={p.exp} />
+                    exp={p.base_experience} />
             ))}
         </div>
     )

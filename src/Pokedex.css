@@ -1,0 +1,10 @@
+.pokedex{
+    text-align: center;
+}
+
+.pokedex-title{
+    font-family: sans-serif;
+    color: cornflowerblue;
+    font-size: 2rem;
+    margin: 2rem;
+}
